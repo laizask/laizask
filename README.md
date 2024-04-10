@@ -1,7 +1,7 @@
 <img src = "aesthetic-meteor-shower-2sgw9zr0n9855dgu.gif" width = "250px" align ="right" >
 
 # Ola, é bom ter você aqui!🎧🖇️
-Cursando Analise e Desenvolvimento de Sistemas.
+Cursando Análise e Desenvolvimento de Sistemas.
 
 
 ## Estou aprendendo/Quero Aprender
