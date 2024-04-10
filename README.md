@@ -2,7 +2,7 @@
 
 # Ola, é bom ter você aqui!🎧🖇️
 Cursando Analise e Desenvolvimento de Sistemas.
-Participando do [HDB](https://conteudo.hackersdobem.org.br/)
+
 
 ## Estou aprendendo/Quero Aprender
 <div>
