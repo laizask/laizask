@@ -5,7 +5,8 @@ Cursando Análise e Desenvolvimento de Sistemas.
 
 <div>
   <a href="https://github.com/laizask">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laizask&show_icons=true&theme=dracula"/>
+  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=laizask&show_icons=true&theme=dracula"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laizask&hide_progress=true"/>
 </div>
 ## Estou aprendendo/Quero Aprender
 <div>
@@ -15,8 +16,6 @@ Cursando Análise e Desenvolvimento de Sistemas.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-
-  ! [Snake animation](https://github.com/laizask/laizask/blob/output/github-contribuition-grid-snake.svg)
           
           
 </div>
