@@ -1,13 +1,13 @@
-<img src = "aesthetic-meteor-shower-2sgw9zr0n9855dgu.gif" width = "250px" align ="right" >
+<img src = "https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width = "300px" align ="right" >
 
-# Ola, é bom ter você aqui!🎧🖇️
-Meu nome é Laiza
-Estou Cursando Análise e Desenvolvimento de Sistemas.
-Fazendo o curso CS50.
+# Ola, eu sou a Laiza!🎧⌨️
+✉️ Estou Cursando Análise e Desenvolvimento de Sistemas.
+
+📁 CS50.
 
 <div>
   <a href="https://github.com/laizask">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=laizask&show_icons=true&theme=radical"/>
+  <img height="30%" src="https://github-readme-stats.vercel.app/api?username=laizask&show_icons=true&theme=radical"/>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laizask&hide_progress=true"/>
 </div>
 ✦ Estou aprendendo/Quero Aprender
