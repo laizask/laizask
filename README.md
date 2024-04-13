@@ -1,6 +1,6 @@
 <img src = "https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width = "300px" align ="right" >
 
-# Ola, eu sou a Laiza!🎧⌨️
+# Oiii, eu sou a Laiza!🎧⌨️
 ✉️ Estou Cursando Análise e Desenvolvimento de Sistemas.
 
 📁 CS50.
