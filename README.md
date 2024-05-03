@@ -1,11 +1,11 @@
-<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="300px" align="right">
-
 
 # Oiii, eu sou a Laiza!🎧⌨️
 
 ✉️ Estou Cursando Análise e Desenvolvimento de Sistemas.
 
 🐈‍⬛ Bootcamp Santander Back-end Java
+
+<img src="https://i.pinimg.com/originals/ff/45/d0/ff45d0af6f718ceee9d9f70edc9b3a0f.gif" width="300px" align="right">
 
 <div>
   <a href="https://github.com/laizask">
