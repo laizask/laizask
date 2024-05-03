@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300px" align="right">
+<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="300px" align="right">
+
 
 # Oiii, eu sou a Laiza!🎧⌨️
 
