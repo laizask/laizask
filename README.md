@@ -17,7 +17,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
 
@@ -27,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 </div>
 
 
