@@ -1,11 +1,11 @@
 <br clear="both">
 
-<p align="left">Oi!! Eu sou a Laiza.<br>Bem vindo ao meu perfil.</p>
+<p align="left">Oi!! 👋Eu sou a Laiza.<br></p>
 
 ###
 
 <div align="right">
-  <img height="100" src="https://i.pinimg.com/originals/58/ef/84/58ef8425f24e05c06c122f123efbe122.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/58/ef/84/58ef8425f24e05c06c122f123efbe122.gif"  />
 </div>
 
 ###
