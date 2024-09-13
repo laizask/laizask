@@ -1,12 +1,11 @@
-<br clear="both">
 
-<p align="left">Oi!! 👋Eu sou a Laiza.<br></p>
+# Oiii, eu sou a Laiza!🎧⌨️
 
-###
+✉️ Estou Cursando Análise e Desenvolvimento de Sistemas.
 
-<div align="right">
-  <img height="200" src="https://i.pinimg.com/originals/58/ef/84/58ef8425f24e05c06c122f123efbe122.gif"  />
-</div>
+🐈‍⬛ Bootcamp Santander Back-end Java
+
+<img src="https://i.pinimg.com/originals/58/ef/84/58ef8425f24e05c06c122f123efbe122.gif" width="300px" align="right">
 
 ###
 
