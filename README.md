@@ -3,9 +3,8 @@
 
 ✉️ Estou Cursando Análise e Desenvolvimento de Sistemas.
 
-🐈‍⬛ Bootcamp Santander Back-end Java
 
-<img src="https://i.pinimg.com/originals/58/ef/84/58ef8425f24e05c06c122f123efbe122.gif" width="300px" align="right">
+<img src="https://i.pinimg.com/originals/58/ef/84/58ef8425f24e05c06c122f123efbe122.gif" width="300px">
 
 ###
 
